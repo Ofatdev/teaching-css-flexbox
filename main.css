@@ -50,12 +50,6 @@ body {
     flex: 1;
     padding: 10px;
 }
-.header .center div {
-    border: 3px solid orange;
-    flex: 1;
-    padding: 10px;
-    /* margin: 10px; */
-}
 .header .center section {
     background-color: #F3BFCA;
     border: 3px solid #E62E2D;
